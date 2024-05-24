@@ -1,0 +1,3 @@
+variable "greetee" {
+ type = string
+}
